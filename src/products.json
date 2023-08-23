@@ -4,7 +4,7 @@
     "name": "Premium Wireless Headphones",
     "description": "Immerse yourself in high-quality sound with these premium wireless headphones.",
     "type": "Electronics",
-    "status": "Available",
+    "status": "Out of stock",
     "dateCreated": "2023-08-23"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Convertible Laptop/Tablet Hybrid",
     "description": "Experience the flexibility of our convertible laptop/tablet hybrid for both work and play.",
     "type": "Electronics",
-    "status": "Available",
+    "status": "Out of stock",
     "dateCreated": "2023-08-20"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Handcrafted Ceramic Vase",
     "description": "Add a touch of artistry to your home decor with our beautifully handcrafted ceramic vase.",
     "type": "Home Decor",
-    "status": "Available",
+    "status": "Out of stock",
     "dateCreated": "2023-08-16"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Solar-Powered Outdoor Lights",
     "description": "Illuminate your outdoor spaces with our eco-friendly solar-powered outdoor lights.",
     "type": "Home and Garden",
-    "status": "Available",
+    "status": "Out of stock",
     "dateCreated": "2023-08-14"
   }
 ]
