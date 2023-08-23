@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PRD001",
+    "name": "Premium Wireless Headphones",
+    "description": "Immerse yourself in high-quality sound with these premium wireless headphones.",
+    "type": "Electronics",
+    "status": "Available",
+    "dateCreated": "2023-08-23"
+  },
+  {
+    "id": "PRD002",
+    "name": "Organic Green Tea Blend",
+    "description": "Enjoy the soothing flavor of our organic green tea blend, perfect for relaxation.",
+    "type": "Food and Beverage",
+    "status": "Available",
+    "dateCreated": "2023-08-22"
+  },
+  {
+    "id": "PRD003",
+    "name": "Adventure Backpack",
+    "description": "Embark on your journeys with this durable and spacious adventure backpack.",
+    "type": "Outdoor Gear",
+    "status": "Available",
+    "dateCreated": "2023-08-21"
+  },
+  {
+    "id": "PRD004",
+    "name": "Convertible Laptop/Tablet Hybrid",
+    "description": "Experience the flexibility of our convertible laptop/tablet hybrid for both work and play.",
+    "type": "Electronics",
+    "status": "Available",
+    "dateCreated": "2023-08-20"
+  },
+  {
+    "id": "PRD005",
+    "name": "Skin Nourishing Face Serum",
+    "description": "Rejuvenate your skin with our nourishing face serum, enriched with natural ingredients.",
+    "type": "Beauty and Skincare",
+    "status": "Available",
+    "dateCreated": "2023-08-19"
+  },
+  {
+    "id": "PRD006",
+    "name": "Classic Leather Watch",
+    "description": "Elevate your style with our timeless classic leather watch, suitable for any occasion.",
+    "type": "Fashion Accessories",
+    "status": "Available",
+    "dateCreated": "2023-08-18"
+  },
+  {
+    "id": "PRD007",
+    "name": "Home Workout Set",
+    "description": "Stay fit at home with our comprehensive workout set, including resistance bands, weights, and more.",
+    "type": "Fitness and Health",
+    "status": "Available",
+    "dateCreated": "2023-08-17"
+  },
+  {
+    "id": "PRD008",
+    "name": "Handcrafted Ceramic Vase",
+    "description": "Add a touch of artistry to your home decor with our beautifully handcrafted ceramic vase.",
+    "type": "Home Decor",
+    "status": "Available",
+    "dateCreated": "2023-08-16"
+  },
+  {
+    "id": "PRD009",
+    "name": "Gourmet Chocolate Truffles",
+    "description": "Indulge in the exquisite taste of our gourmet chocolate truffles, a treat for your taste buds.",
+    "type": "Food and Beverage",
+    "status": "Available",
+    "dateCreated": "2023-08-15"
+  },
+  {
+    "id": "PRD010",
+    "name": "Solar-Powered Outdoor Lights",
+    "description": "Illuminate your outdoor spaces with our eco-friendly solar-powered outdoor lights.",
+    "type": "Home and Garden",
+    "status": "Available",
+    "dateCreated": "2023-08-14"
+  }
+]
